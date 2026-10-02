@@ -348,3 +348,5 @@ The goal of this project is to demonstrate how a **distributed caching layer** c
 **Core idea:**
 
 > **Cache frequently used data → reduce database requests → improve retrieval speed → handle multiple requests efficiently.**
+> 
+**Developed with ♥️ by :** [Tulsi Singh](https://github.com/tulsi-singh4)
