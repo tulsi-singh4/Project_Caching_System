@@ -1,5 +1,3 @@
-# Project_Caching_System
-
 # 🚀 Distributed Cache System
 
 A **distributed caching system** built using **C++, Redis, Drogon, Nginx, PostgreSQL, Docker, and multithreading** to provide faster data retrieval and reduce repeated database access.
